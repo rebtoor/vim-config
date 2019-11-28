@@ -506,6 +506,7 @@
   hook_source: |
     let g:delimitMate_expand_cr = 1
     let g:delimitMate_excluded_ft = 'html'
+    let g:delimitMate_autoclose = 0
 
 - repo: wellle/tmux-complete.vim
   if: "! (has('win32') || has('win64'))"
