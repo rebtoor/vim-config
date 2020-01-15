@@ -13,6 +13,7 @@
 - repo: thinca/vim-localrc
 - repo: romainl/vim-cool
 - repo: sgur/vim-editorconfig
+- repo: tpope/vim-commentary
 
 - repo: christoomey/vim-tmux-navigator
   if: "! (has('win32') || has('win64'))"
